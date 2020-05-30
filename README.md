@@ -1,2 +1,2 @@
-# Changelog-AGD
-https://aszuna.github.io/Changelog-AGD/
+# Changelog-DPL
+https://aszuna.github.io/Changelog-DPL/
